@@ -1,0 +1,164 @@
+1
+00:00:01,080 --> 00:00:01,900
+Hi.
+
+2
+00:00:01,990 --> 00:00:06,440
+Before you start in the course let me guide you how to follow this course.
+
+3
+00:00:06,650 --> 00:00:15,030
+See this courses for beginners who are pursuing C++ as their part of academics and also useful for those
+
+4
+00:00:15,030 --> 00:00:21,450
+who are going to attend job interviews and even if you are a professional programmer and you want to
+
+5
+00:00:21,450 --> 00:00:26,570
+use C++ in your application development the course is definitely useful for you.
+
+6
+00:00:26,670 --> 00:00:31,410
+So if you are a beginner then you will be learning right from the very basics to the advanced level
+
+7
+00:00:31,860 --> 00:00:33,400
+of C++ programming.
+
+8
+00:00:34,110 --> 00:00:38,060
+So if you are a beginner don't skip any video right.
+
+9
+00:00:38,060 --> 00:00:39,190
+Don't skip any video.
+
+10
+00:00:39,330 --> 00:00:44,960
+The beginning first two sections are covering the essential fundamentals that are required for learning
+
+11
+00:00:45,090 --> 00:00:46,650
+any programming language.
+
+12
+00:00:46,650 --> 00:00:49,660
+So if you have never done any programming you are very new to it.
+
+13
+00:00:49,950 --> 00:00:53,680
+Then don't skip anything and follow each and every video.
+
+14
+00:00:53,730 --> 00:01:00,120
+Step by step then next thing, in every video, wherever I have discussed a programs.
+
+15
+00:01:00,210 --> 00:01:04,640
+I have written the programs on whiteboard. After listening to the lecture.
+
+16
+00:01:04,640 --> 00:01:10,840
+Better you prepare some notes and also you try to write on the program by yourself on your own machine
+
+17
+00:01:10,900 --> 00:01:14,560
+that is in your own environment that is own IDE
+
+18
+00:01:14,730 --> 00:01:20,600
+And if you face any problem then you can watch our demo video next to the topic so every topic is having
+
+19
+00:01:20,600 --> 00:01:24,200
+a demo movie do after that and also along with the demo video.
+
+20
+00:01:24,200 --> 00:01:30,350
+There is an attachment of the program that is shown in the demo video. so I suggest you to practice
+
+21
+00:01:30,350 --> 00:01:36,920
+it by yourself first and practicing C++ programming is more important just listening to the lectures
+
+22
+00:01:36,920 --> 00:01:38,020
+will not help you.
+
+23
+00:01:38,090 --> 00:01:43,280
+The more you practice the more programs you write the more confidence you'll get and you'll get more
+
+24
+00:01:43,280 --> 00:01:45,650
+used to it C++ programming.
+
+25
+00:01:45,650 --> 00:01:48,980
+And there are some student exercises at the end of each section.
+
+26
+00:01:49,160 --> 00:01:55,500
+You try to complete them and for them also a demonstration video as well as a PDF file  
+
+27
+00:01:55,500 --> 00:01:56,990
+is also available for it.
+
+28
+00:01:57,930 --> 00:02:03,410
+And at the end of the course there is a student project a small student project at the end of C++ scores.
+
+29
+00:02:03,740 --> 00:02:10,340
+I suggest you to complete that project by yourself and for that also a demonstration and the code is
+
+30
+00:02:10,340 --> 00:02:15,070
+given, that is PDF and for every section there is some quiz.
+
+31
+00:02:15,080 --> 00:02:20,960
+Try to attempt them those questions and if you have answered wrong then I suggest you to just watch the
+
+32
+00:02:21,290 --> 00:02:25,430
+relevant videos for once again. And at any stage.
+
+33
+00:02:25,430 --> 00:02:30,860
+If you face any difficulty if you have any queries if you have any questions just feel free to post
+
+34
+00:02:30,860 --> 00:02:31,840
+a question to me.
+
+35
+00:02:31,940 --> 00:02:33,460
+I will reply quickly.
+
+36
+00:02:33,500 --> 00:02:39,590
+I will give you an instant replay on that one and if you are having any errors while writing the programs
+
+37
+00:02:39,590 --> 00:02:46,730
+and all I suggest you to send a screenshot right so that I can quickly answer you so you can post a
+
+38
+00:02:46,730 --> 00:02:52,760
+question so that I can I should be able to understand your question and quickly answer it right so
+
+39
+00:02:53,000 --> 00:02:53,870
+don't hesitate.
+
+40
+00:02:53,960 --> 00:02:57,170
+I'm always there with you through out this course.
+
+41
+00:02:57,290 --> 00:03:02,670
+Alright so hope you enjoy the course and learn a lot of things in C++ in this course.
+
