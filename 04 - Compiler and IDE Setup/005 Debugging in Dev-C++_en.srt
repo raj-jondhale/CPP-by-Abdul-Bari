@@ -1,0 +1,516 @@
+1
+00:00:00,180 --> 00:00:04,980
+In this video, we will see how to use a debugger in C++.
+
+2
+00:00:06,170 --> 00:00:10,220
+Debugger is used for tracing the program line by line.
+
+3
+00:00:10,580 --> 00:00:14,660
+We can watch the program and see how it is executing line by line.
+
+4
+00:00:16,870 --> 00:00:24,790
+Sometimes if the program is not giving expected results or it is giving wrong output, then we may check
+
+5
+00:00:24,790 --> 00:00:29,470
+the program line by line to check to find out where we have gone wrong.
+
+6
+00:00:31,920 --> 00:00:37,410
+You'll be learning more about the usage of debugger in the coming videos while giving the demonstration
+
+7
+00:00:37,410 --> 00:00:38,100
+of programs.
+
+8
+00:00:38,100 --> 00:00:43,230
+I have used debugger sometimes, so even you can do it in C++.
+
+9
+00:00:43,380 --> 00:00:46,200
+So let us see how to use a debugger so far.
+
+10
+00:00:46,210 --> 00:00:51,150
+So for that, first of all, I will create a project and I will write one simple program.
+
+11
+00:00:51,150 --> 00:00:55,860
+Then I will show you the options that you have to use for using a debugger.
+
+12
+00:00:57,150 --> 00:00:58,410
+New project.
+
+13
+00:00:59,180 --> 00:01:02,780
+And say console application and it's a C++ project.
+
+14
+00:01:02,810 --> 00:01:04,280
+Let us name it as.
+
+15
+00:01:06,300 --> 00:01:07,470
+And say, okay.
+
+16
+00:01:11,960 --> 00:01:14,270
+Now hear the skeleton of a program is ready.
+
+17
+00:01:14,420 --> 00:01:16,730
+I'll replace it with my program.
+
+18
+00:01:18,340 --> 00:01:18,700
+Yeah.
+
+19
+00:01:18,700 --> 00:01:19,630
+Here is the program.
+
+20
+00:01:19,630 --> 00:01:20,230
+Ready?
+
+21
+00:01:20,320 --> 00:01:22,240
+Now, don't go into the details of the program.
+
+22
+00:01:22,240 --> 00:01:26,140
+This program is to find the sum of all these elements.
+
+23
+00:01:26,230 --> 00:01:29,770
+Addition of these elements, that is one, two, five, eight, nine.
+
+24
+00:01:29,890 --> 00:01:34,810
+So it will give the sum of all these elements that's going to be 25.
+
+25
+00:01:35,590 --> 00:01:39,040
+So let us first compile the program.
+
+26
+00:01:39,420 --> 00:01:40,120
+I'll.
+
+27
+00:01:43,010 --> 00:01:44,120
+Let us first.
+
+28
+00:01:44,600 --> 00:01:46,940
+Let us first compile and build the program.
+
+29
+00:01:46,940 --> 00:01:49,700
+So go to execute and see.
+
+30
+00:01:51,820 --> 00:01:53,020
+Compile and run.
+
+31
+00:01:54,050 --> 00:01:55,880
+She's asking me to save the file.
+
+32
+00:01:55,900 --> 00:01:56,350
+Yes.
+
+33
+00:01:56,350 --> 00:01:58,090
+May not keep saved.
+
+34
+00:01:59,350 --> 00:02:00,310
+Yes.
+
+35
+00:02:04,460 --> 00:02:05,450
+So it's giving the result.
+
+36
+00:02:05,450 --> 00:02:06,560
+That is 25.
+
+37
+00:02:07,620 --> 00:02:10,350
+No, this is a normal execution.
+
+38
+00:02:10,350 --> 00:02:13,290
+I have done now one I have compiled.
+
+39
+00:02:13,290 --> 00:02:15,390
+So the program is ready to run now.
+
+40
+00:02:15,390 --> 00:02:18,660
+So instead of running, I will perform debugging.
+
+41
+00:02:20,590 --> 00:02:25,740
+So for debugging, first of all, we have to put a breakpoint upon any statement.
+
+42
+00:02:25,750 --> 00:02:28,560
+So on the first statement itself, I'll put a breakpoint.
+
+43
+00:02:28,570 --> 00:02:33,700
+So for putting a breakpoint in dev C++, just click on the statement here.
+
+44
+00:02:33,700 --> 00:02:37,570
+I have clicked on the number right on the left hand side, leftmost corner.
+
+45
+00:02:37,570 --> 00:02:38,740
+I have just clicked here.
+
+46
+00:02:38,740 --> 00:02:40,450
+If you again click, it will be gone.
+
+47
+00:02:40,450 --> 00:02:44,680
+So for toggling you can just click and click once again it's gone.
+
+48
+00:02:44,680 --> 00:02:46,150
+So it's like on and off.
+
+49
+00:02:46,540 --> 00:02:49,270
+So now it is on, right?
+
+50
+00:02:49,390 --> 00:02:51,490
+So this statement is having breakpoint.
+
+51
+00:02:51,490 --> 00:02:56,860
+So when I run the debugger, it will come and stop here so that from there I can carry on by executing
+
+52
+00:02:56,860 --> 00:02:58,900
+the statements one by one.
+
+53
+00:02:59,620 --> 00:03:01,000
+So let us start the debugger.
+
+54
+00:03:01,000 --> 00:03:07,000
+So for starting a debugger I can go to execute now this time instead of calling run or compiler run,
+
+55
+00:03:07,030 --> 00:03:11,830
+just go down at the in the menu options and select debug.
+
+56
+00:03:12,370 --> 00:03:16,210
+So you can see that even I can do it using F5.
+
+57
+00:03:16,210 --> 00:03:18,790
+So you can even press F5 for.
+
+58
+00:03:19,980 --> 00:03:21,120
+Starting debugger.
+
+59
+00:03:22,260 --> 00:03:24,150
+Now, here it is at this line.
+
+60
+00:03:24,150 --> 00:03:26,220
+It has not yet executed the line.
+
+61
+00:03:26,850 --> 00:03:29,100
+Now I want to know what are the values in these variables?
+
+62
+00:03:29,100 --> 00:03:34,440
+So the variables that I have are some and A and X, these are some variables.
+
+63
+00:03:34,770 --> 00:03:38,460
+So let us add these variables in a watch.
+
+64
+00:03:38,580 --> 00:03:43,050
+So for this I will select the sum and right click.
+
+65
+00:03:43,350 --> 00:03:44,880
+And here is an option.
+
+66
+00:03:44,880 --> 00:03:46,200
+Add watch.
+
+67
+00:03:46,650 --> 00:03:50,010
+So it is added to a watch and the sum variable is zero right now.
+
+68
+00:03:50,740 --> 00:03:51,880
+And a.
+
+69
+00:03:53,760 --> 00:03:59,780
+And right click say Ad Watch is added and it is having some garbage values.
+
+70
+00:03:59,790 --> 00:04:01,140
+It's not having these values.
+
+71
+00:04:01,140 --> 00:04:05,250
+One, two, five, eight, nine, because this line is not yet executed.
+
+72
+00:04:06,180 --> 00:04:08,070
+Then I have one more variable x.
+
+73
+00:04:08,070 --> 00:04:10,680
+I will select this and add watch.
+
+74
+00:04:12,560 --> 00:04:15,200
+So execute to evaluate.
+
+75
+00:04:15,200 --> 00:04:17,350
+So what is the result of this?
+
+76
+00:04:17,360 --> 00:04:20,390
+X is not yet known because it has not yet reached here.
+
+77
+00:04:20,510 --> 00:04:24,020
+My my program has executed till this line.
+
+78
+00:04:24,020 --> 00:04:31,460
+So the line which is highlighted it is here now let us execute it step by step and see how these values
+
+79
+00:04:31,460 --> 00:04:33,080
+in the watch are changing.
+
+80
+00:04:33,080 --> 00:04:40,520
+So you have to observe here this area and here I will be executing the statements line by line and here
+
+81
+00:04:40,520 --> 00:04:41,450
+there is a loop.
+
+82
+00:04:41,450 --> 00:04:47,170
+So this will be repeatedly executing and the value of some will also be changing because it will be
+
+83
+00:04:47,210 --> 00:04:49,700
+keep on adding the value of X into sum.
+
+84
+00:04:50,150 --> 00:04:51,590
+So let us see it now.
+
+85
+00:04:51,590 --> 00:04:56,510
+So for executing next line here at the bottom, we have option like next line.
+
+86
+00:04:56,510 --> 00:05:04,370
+So you can press this or even you can press F seven, you can see there is a tooltip popping up showing
+
+87
+00:05:04,370 --> 00:05:06,740
+that for next line press f seven.
+
+88
+00:05:07,130 --> 00:05:08,990
+So I'll press next line.
+
+89
+00:05:08,990 --> 00:05:10,490
+So it is on the next line.
+
+90
+00:05:10,700 --> 00:05:13,610
+Now I'm pressing F seven for continuation.
+
+91
+00:05:14,180 --> 00:05:19,310
+Now after this line you can see that the array values, these values will be changing, right?
+
+92
+00:05:19,310 --> 00:05:20,150
+It is on this line.
+
+93
+00:05:20,150 --> 00:05:21,560
+It has not error executed.
+
+94
+00:05:21,560 --> 00:05:24,110
+So this values will be changing.
+
+95
+00:05:24,110 --> 00:05:29,390
+C earlier it was on some and already some was having zero so that actually the value was garbage.
+
+96
+00:05:29,390 --> 00:05:31,580
+Then again, zero is a sign, right?
+
+97
+00:05:31,580 --> 00:05:33,470
+So garbage value can be even zero.
+
+98
+00:05:33,470 --> 00:05:35,930
+Here you can see inside a one of the values zero.
+
+99
+00:05:36,800 --> 00:05:38,930
+So it has not yet executed this line.
+
+100
+00:05:38,930 --> 00:05:44,480
+So press f seven is now re is initialized with these values here.
+
+101
+00:05:44,480 --> 00:05:49,310
+You can see this on the left hand side and the debug window you can see this one.
+
+102
+00:05:49,310 --> 00:05:50,240
+This is watch.
+
+103
+00:05:50,660 --> 00:05:58,220
+Watching the contents of the variables right now press f seven now does enter inside follow you can
+
+104
+00:05:59,090 --> 00:06:06,980
+drag this blue color line now some hands became one, an x value was one, now x becomes two.
+
+105
+00:06:07,490 --> 00:06:10,130
+Now it will be added to sum and some becomes three.
+
+106
+00:06:10,640 --> 00:06:12,050
+Now X became five.
+
+107
+00:06:12,050 --> 00:06:14,150
+It will be added to some and some becomes eight.
+
+108
+00:06:14,150 --> 00:06:15,350
+So you can watch here.
+
+109
+00:06:15,410 --> 00:06:16,850
+Some became eight.
+
+110
+00:06:16,850 --> 00:06:18,200
+An x value is five.
+
+111
+00:06:18,230 --> 00:06:20,930
+So the next after five it is eight.
+
+112
+00:06:20,930 --> 00:06:21,800
+So let us see.
+
+113
+00:06:21,800 --> 00:06:24,980
+Next is X became eight.
+
+114
+00:06:24,980 --> 00:06:27,020
+So some should become 16.
+
+115
+00:06:27,020 --> 00:06:31,130
+Yes, some became 16, then x is becoming nine.
+
+116
+00:06:31,130 --> 00:06:33,200
+So then some became 25.
+
+117
+00:06:33,200 --> 00:06:34,580
+So end of this loop.
+
+118
+00:06:34,580 --> 00:06:35,930
+And this is printed.
+
+119
+00:06:37,410 --> 00:06:40,920
+So if you see the window here, you can watch here.
+
+120
+00:06:40,930 --> 00:06:42,540
+The value 25 is printed.
+
+121
+00:06:47,480 --> 00:06:53,240
+So this is how we can trace how the program is working and closely observe how the values of the variables
+
+122
+00:06:53,240 --> 00:06:58,820
+are changing and if anything unexpected found, then you can make corrections in your code.
+
+123
+00:06:59,420 --> 00:07:01,100
+So that's all about debugging.
+
+124
+00:07:01,100 --> 00:07:07,730
+So you remember the options that you have to go here and execute and start the debugger, and then afterwards
+
+125
+00:07:07,730 --> 00:07:14,600
+you have to just keep on pressing next line or F7 and for watching the variables, you have to select
+
+126
+00:07:14,600 --> 00:07:19,760
+the variable and say Add watch or even you can click on this add watch button and here you can enter
+
+127
+00:07:19,760 --> 00:07:20,690
+the variable in.
+
+128
+00:07:22,250 --> 00:07:27,200
+So that's all about debugger and maybe showing it again in some of the programs, how to use the debugger
+
+129
+00:07:27,200 --> 00:07:28,520
+for that particular program.
+

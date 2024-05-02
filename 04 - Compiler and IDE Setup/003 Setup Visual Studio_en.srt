@@ -1,0 +1,364 @@
+1
+00:00:02,400 --> 00:00:06,360
+In this video, we will see how to download and set up Visual Studio.
+
+2
+00:00:06,390 --> 00:00:11,100
+So open the browser and search for download Visual Studio.
+
+3
+00:00:17,560 --> 00:00:20,470
+The first link is from Microsoft, so click on it.
+
+4
+00:00:21,930 --> 00:00:25,350
+It will take you to the website, Microsoft website here.
+
+5
+00:00:25,350 --> 00:00:31,470
+There are various versions of Visual Studio available, so you can select the first one that is for
+
+6
+00:00:31,470 --> 00:00:37,470
+community, and it is a free version for students and for researchers.
+
+7
+00:00:37,470 --> 00:00:39,390
+So select the first one.
+
+8
+00:00:39,390 --> 00:00:41,280
+Click on free download.
+
+9
+00:00:48,470 --> 00:00:49,790
+It will start downloading.
+
+10
+00:00:52,330 --> 00:00:54,640
+And it will pop up and ask you to select the.
+
+11
+00:00:55,680 --> 00:01:00,990
+Type of applications that you are going to develop while it is downloading, it will ask you to select
+
+12
+00:01:00,990 --> 00:01:06,300
+the type of applications that you will be developing so you can select desktop application and sign
+
+13
+00:01:06,300 --> 00:01:09,600
+up by entering your email ID and selecting your country.
+
+14
+00:01:09,630 --> 00:01:11,760
+Click on the file for installation.
+
+15
+00:01:12,510 --> 00:01:14,730
+After signup, you can start installation.
+
+16
+00:01:16,020 --> 00:01:16,230
+Here.
+
+17
+00:01:16,230 --> 00:01:17,670
+The installation starts.
+
+18
+00:01:22,740 --> 00:01:23,160
+Yes.
+
+19
+00:01:23,160 --> 00:01:25,230
+Here it gives options for what purpose?
+
+20
+00:01:25,230 --> 00:01:31,470
+You want to download C++ so you can select desktop development with C++.
+
+21
+00:01:31,470 --> 00:01:33,210
+So select this option.
+
+22
+00:01:34,690 --> 00:01:36,550
+And click on install.
+
+23
+00:01:40,240 --> 00:01:41,440
+It's and struggle.
+
+24
+00:01:43,400 --> 00:01:48,590
+It will install Visual Studio for C++.
+
+25
+00:01:58,730 --> 00:02:01,730
+Once the installation is over, you have to restart your computer.
+
+26
+00:02:01,730 --> 00:02:02,840
+So restart it.
+
+27
+00:02:05,220 --> 00:02:07,950
+So the installation of Visual Studio has finished.
+
+28
+00:02:07,980 --> 00:02:13,020
+Now let us start Visual Studio and develop 1/1 project.
+
+29
+00:02:13,380 --> 00:02:18,080
+So good to start menu and here I will type Visual Studio.
+
+30
+00:02:18,090 --> 00:02:20,860
+So this is the Visual Studio 2019.
+
+31
+00:02:20,880 --> 00:02:22,320
+So click on this one.
+
+32
+00:02:24,060 --> 00:02:25,230
+Here it started.
+
+33
+00:02:26,070 --> 00:02:30,510
+Now here, say, create new project.
+
+34
+00:02:30,510 --> 00:02:31,680
+So select this one.
+
+35
+00:02:31,680 --> 00:02:32,270
+Right.
+
+36
+00:02:32,280 --> 00:02:37,380
+So for every program that you write, I suggest you create a new project that is better and you can
+
+37
+00:02:37,380 --> 00:02:40,800
+have all the projects in one folder next.
+
+38
+00:02:40,800 --> 00:02:43,170
+Here you have to select the type of the project.
+
+39
+00:02:43,170 --> 00:02:47,070
+So on the top left you will find here the language.
+
+40
+00:02:47,070 --> 00:02:50,340
+So select it as C++, right?
+
+41
+00:02:50,340 --> 00:02:52,140
+And the platform is Windows.
+
+42
+00:02:52,140 --> 00:02:52,330
+Okay.
+
+43
+00:02:52,410 --> 00:02:53,940
+You need not select that one.
+
+44
+00:02:53,970 --> 00:02:56,540
+Just you can leave it as it is for all platform.
+
+45
+00:02:56,550 --> 00:03:00,810
+If you scroll down, you'll find one option that is console app.
+
+46
+00:03:01,020 --> 00:03:03,570
+So you have to select console app, right?
+
+47
+00:03:03,570 --> 00:03:07,650
+So, so all the applications that we are going to develop are console applications.
+
+48
+00:03:07,650 --> 00:03:11,850
+So you always have to select this one, say next.
+
+49
+00:03:12,840 --> 00:03:16,050
+Now here you have to mention the project name.
+
+50
+00:03:16,050 --> 00:03:24,210
+So I'll give the project name as my first and you have to select the part so you can select the part
+
+51
+00:03:24,210 --> 00:03:26,130
+and then say create.
+
+52
+00:03:32,660 --> 00:03:36,740
+So project is created and here is the sample code.
+
+53
+00:03:36,740 --> 00:03:40,100
+The code is ready, so all the remain function is available.
+
+54
+00:03:40,100 --> 00:03:42,350
+So you can start typing your program here.
+
+55
+00:03:42,830 --> 00:03:43,130
+Right.
+
+56
+00:03:43,130 --> 00:03:47,390
+Already, the basic header file or the standard header file is already included.
+
+57
+00:03:47,480 --> 00:03:54,770
+That is IU's stream and hello world program is automatically generated now here on the right hand side
+
+58
+00:03:54,770 --> 00:04:01,850
+in the solution explorer or in this window, if you expand the source file you will find this my first
+
+59
+00:04:01,850 --> 00:04:02,540
+step.
+
+60
+00:04:02,570 --> 00:04:06,050
+So this is what the file it is showing here, right?
+
+61
+00:04:08,320 --> 00:04:14,560
+If you want to write a program, simply, I will write one program with the three variables A, B,
+
+62
+00:04:14,560 --> 00:04:20,160
+C, and then assign some value and be assigned with some value.
+
+63
+00:04:20,170 --> 00:04:20,860
+Then C.
+
+64
+00:04:20,860 --> 00:04:24,790
+Assign a plus b.
+
+65
+00:04:25,960 --> 00:04:32,530
+Now I will display this value also standard CDC out.
+
+66
+00:04:32,950 --> 00:04:38,650
+See and also study.
+
+67
+00:04:38,650 --> 00:04:43,600
+And this will add to numbers and display them.
+
+68
+00:04:43,630 --> 00:04:47,370
+Now here you can see that something is underlined here with red color.
+
+69
+00:04:47,380 --> 00:04:49,000
+So this shows it's an error.
+
+70
+00:04:50,380 --> 00:04:54,550
+So this ID will help you to find the errors wherever you are going wrong.
+
+71
+00:04:54,580 --> 00:04:56,470
+So it's very programmer friendly.
+
+72
+00:04:56,470 --> 00:05:00,190
+So here actually I have given a single colon, so I should try scope resolution.
+
+73
+00:05:00,190 --> 00:05:03,310
+So double time I have to write colon.
+
+74
+00:05:03,310 --> 00:05:04,840
+So now this is perfect.
+
+75
+00:05:05,530 --> 00:05:06,850
+Now let us see how to run.
+
+76
+00:05:06,850 --> 00:05:14,040
+So here we can go to build menu option on the top and say build solution or build my first.
+
+77
+00:05:14,050 --> 00:05:15,730
+So this is my first build.
+
+78
+00:05:15,730 --> 00:05:20,020
+So it will be compiled and executable will be created.
+
+79
+00:05:20,050 --> 00:05:26,590
+Now for running go to debug option for running go to debug option and start without debugging.
+
+80
+00:05:27,100 --> 00:05:30,660
+So debugger, I'll be showing you in the next video.
+
+81
+00:05:30,670 --> 00:05:33,010
+So without debugging, just we want to run.
+
+82
+00:05:33,010 --> 00:05:36,130
+So you can also press control F5 for running the program.
+
+83
+00:05:36,520 --> 00:05:39,100
+So run this one now here displays.
+
+84
+00:05:41,310 --> 00:05:45,600
+Now here displays the result that is 1030, ten plus 20 is 30.
+
+85
+00:05:45,600 --> 00:05:46,680
+And also Hello World.
+
+86
+00:05:48,600 --> 00:05:49,380
+So that's it.
+
+87
+00:05:49,380 --> 00:05:52,140
+So you can complete the program and you can remove all these comments.
+
+88
+00:05:52,140 --> 00:05:55,440
+If you don't like them, you can type all your programs.
+
+89
+00:05:55,440 --> 00:06:00,300
+So for every time, for every program, I suggest you to create a new project and do it and let the
+
+90
+00:06:00,300 --> 00:06:04,140
+project name be same as the program that you're doing it for.
+
+91
+00:06:04,170 --> 00:06:08,460
+If you would like to use Visual Studio, this is how you can set up and start using it.
+
