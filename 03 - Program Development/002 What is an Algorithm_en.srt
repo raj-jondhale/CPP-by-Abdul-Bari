@@ -1,0 +1,596 @@
+1
+00:00:00,320 --> 00:00:07,080
+In this video i will discuss about algorithm, pseudocode and program.
+
+2
+00:00:07,080 --> 00:00:08,460
+Let us learn more about him.
+
+3
+00:00:08,790 --> 00:00:10,820
+First of all algorithm.
+
+4
+00:00:10,830 --> 00:00:12,900
+What is this.
+
+5
+00:00:12,900 --> 00:00:21,510
+By definition algorithm is a step by step procedure for solving a computational problem.
+
+6
+00:00:22,560 --> 00:00:23,920
+Then what is the program.
+
+7
+00:00:24,240 --> 00:00:31,890
+Program is also same a step step by step machine instructional program instruction for solving any problem
+
+8
+00:00:31,920 --> 00:00:37,230
+that is computational task then what is the difference between algorithm and program.
+
+9
+00:00:37,240 --> 00:00:46,120
+See we have started writing programming recently but algorithms are existing from centuries. people have
+
+10
+00:00:46,120 --> 00:00:51,190
+been devising procedures for solving computational problem.
+
+11
+00:00:51,280 --> 00:00:56,290
+This is common practice who are doing this mostly mathematicians where doing it or scientists are
+
+12
+00:00:56,290 --> 00:00:57,100
+doing it.
+
+13
+00:00:57,100 --> 00:01:02,650
+So those who are working on some problems studying a problem and finding a solution, they were giving
+
+14
+00:01:02,650 --> 00:01:04,670
+a solution in the form of algorithm .
+
+15
+00:01:04,720 --> 00:01:07,870
+That is procedure step by step procedure.
+
+16
+00:01:07,870 --> 00:01:12,740
+Now we want that same procedure should be followed our machines.
+
+17
+00:01:12,760 --> 00:01:14,050
+So we are writing program.
+
+18
+00:01:14,410 --> 00:01:14,770
+OK.
+
+19
+00:01:14,810 --> 00:01:15,550
+Yes that's it.
+
+20
+00:01:15,820 --> 00:01:19,460
+So it means first we have algorithm right.
+
+21
+00:01:19,480 --> 00:01:24,390
+First we have algorithm then we convert that into program.
+
+22
+00:01:24,420 --> 00:01:27,840
+Yes exactly exactly.
+
+23
+00:01:27,880 --> 00:01:34,800
+Then as a student if you will study what do you learn here? you learn how to solve a problem.
+
+24
+00:01:34,810 --> 00:01:39,200
+This is different how to solve a problem right.
+
+25
+00:01:39,250 --> 00:01:42,060
+So are you capable of solving any problem.
+
+26
+00:01:42,070 --> 00:01:44,400
+It's not easy to start solving problems.
+
+27
+00:01:44,440 --> 00:01:50,270
+First of all you learn few procedures then from that you get some new idea.
+
+28
+00:01:50,380 --> 00:01:53,600
+Then you can start solving the problem by yourself.
+
+29
+00:01:53,650 --> 00:01:59,920
+You need some skills you have to develop some skills analytical skills or problem solving skills you
+
+30
+00:01:59,920 --> 00:02:04,850
+have to get it so that mostly you get from various other subjects as well as mathematics, its not purely 
+
+31
+00:02:04,870 --> 00:02:09,650
+completely mathematics various other subjects and it depends on your IQ level also.
+
+32
+00:02:10,139 --> 00:02:11,500
+How do you solve a problem.
+
+33
+00:02:11,500 --> 00:02:16,040
+So if you know how to solve a problem you can write it as a algorithm.
+
+34
+00:02:16,240 --> 00:02:20,800
+It is just like if you know how to prepare the dish.
+
+35
+00:02:20,800 --> 00:02:25,200
+If you are a chef then you will prepare recipe right.
+
+36
+00:02:25,220 --> 00:02:31,520
+If you are a chemist then you will prepare a chemical formula and you will prepare an experiment for
+
+37
+00:02:32,150 --> 00:02:33,190
+chemical formula.
+
+38
+00:02:33,200 --> 00:02:35,410
+Getting the chemical result right.
+
+39
+00:02:35,780 --> 00:02:42,380
+If you are a musician you will compose music so if you are a mathematician you will write an algorithm
+
+40
+00:02:42,680 --> 00:02:45,890
+that is procedure that's it.
+
+41
+00:02:45,910 --> 00:02:48,810
+So this requires different skills right.
+
+42
+00:02:48,850 --> 00:02:53,760
+So mainly awareness of your mathematics and awareness of problem solving.
+
+43
+00:02:53,860 --> 00:03:00,340
+If you have an algorithm then we want our machine to perform that algorithm and get the result, write 
+
+44
+00:03:00,360 --> 00:03:01,800
+it in the form of a program.
+
+45
+00:03:01,870 --> 00:03:04,620
+So converting an algorithm into a program.
+
+46
+00:03:04,980 --> 00:03:07,400
+So that's what you should know the language.
+
+47
+00:03:07,420 --> 00:03:11,770
+So if you know the programming language then you can pick up that programming language and write on
+
+48
+00:03:11,770 --> 00:03:12,490
+a program.
+
+49
+00:03:12,550 --> 00:03:16,200
+Convert this into this then, how do you write in which language you write this one?
+
+50
+00:03:16,200 --> 00:03:19,370
+we can use any language here.
+
+51
+00:03:19,420 --> 00:03:21,780
+English like language or directly English also
+
+52
+00:03:21,820 --> 00:03:28,780
+English also you can use here, but people use some formal notation it looks more like mathematical or
+
+53
+00:03:28,780 --> 00:03:34,920
+more like programming like so that type of code we call it pseudo code. right.
+
+54
+00:03:34,930 --> 00:03:39,170
+So pseudocode is not defined not a standard whatever you write is pseudo code.
+
+55
+00:03:40,170 --> 00:03:40,900
+Right.
+
+56
+00:03:41,010 --> 00:03:46,960
+Sometimes we define our team will define and follow that one otherwise if it is understandable that's
+
+57
+00:03:46,960 --> 00:03:52,600
+enough you write any way you like but program you must strictly follow.
+
+58
+00:03:52,600 --> 00:04:02,300
+If you're using C++ then you should strictly follow Syntax, means Grammar of that particular language here.
+
+59
+00:04:02,340 --> 00:04:08,080
+There is no grammar as long as one can understand if a person can read at least if you are  write
+
+60
+00:04:08,080 --> 00:04:09,240
+you should understand it.
+
+61
+00:04:09,340 --> 00:04:11,250
+That's enough. that is a pseudocode.
+
+62
+00:04:12,310 --> 00:04:17,959
+So analysts or mathematicians who know how to solve a problem will write algorithm and programmer will write 
+
+63
+00:04:18,000 --> 00:04:19,420
+on a program.
+
+64
+00:04:19,420 --> 00:04:25,900
+So now as a student as a computer science student or person you have to devise an algorithm and you
+
+65
+00:04:25,900 --> 00:04:26,860
+have to write a program.
+
+66
+00:04:27,580 --> 00:04:33,010
+But so many algorithms are already available we struggle learning about them only that is sufficient
+
+67
+00:04:33,300 --> 00:04:38,080
+if you know aboard all existing algorithms and you know how to convert them into program that is
+
+68
+00:04:38,080 --> 00:04:38,650
+sufficient.
+
+69
+00:04:38,650 --> 00:04:42,840
+You don't have to invent anything new unless and until you need it.
+
+70
+00:04:42,850 --> 00:04:44,570
+And if it is not existing.
+
+71
+00:04:45,160 --> 00:04:45,460
+Right.
+
+72
+00:04:45,700 --> 00:04:46,850
+So this is the general idea.
+
+73
+00:04:46,870 --> 00:04:52,180
+about the algorithm watch this program and also pseudo code I gave you for learning programming.
+
+74
+00:04:52,180 --> 00:04:56,830
+People will first the right algorithm then they will convert it into a program so that if you have
+
+75
+00:04:56,830 --> 00:05:01,630
+a practice of this one and then later on you have to devise your own algorithm you should
+
+76
+00:05:01,630 --> 00:05:02,840
+be able to do it.
+
+77
+00:05:02,890 --> 00:05:05,850
+You should not be new to algorithms.
+
+78
+00:05:05,880 --> 00:05:10,140
+Now let me write an example algorithm and also for that I will write on a C++ program.
+
+79
+00:05:10,290 --> 00:05:15,920
+But I'm not going to explain you how that program is written and all just a sample to look at.
+
+80
+00:05:16,540 --> 00:05:17,170
+Let me write down it.
+
+81
+00:05:17,560 --> 00:05:24,010
+So here I have an example algorithm as well as a program that the C++ program that is not a complete
+
+82
+00:05:24,010 --> 00:05:25,690
+program just a function.
+
+83
+00:05:25,690 --> 00:05:27,110
+Let us study this.
+
+84
+00:05:27,300 --> 00:05:33,100
+See this is for finding average of list of elements I have collection of elements I want to find out
+
+85
+00:05:33,170 --> 00:05:34,100
+average.
+
+86
+00:05:34,550 --> 00:05:36,600
+Read it sum is 0.
+
+87
+00:05:36,690 --> 00:05:38,610
+OK sum assign zero.
+
+88
+00:05:38,620 --> 00:05:41,260
+This means put this zero inside sum.
+
+89
+00:05:41,650 --> 00:05:49,030
+Yes that is the meaning the arrow is showing the direction then for each element x in list so we will call
+
+90
+00:05:49,030 --> 00:05:54,030
+each element as X in the list then begin sum assigned sum+ x.
+
+91
+00:05:54,040 --> 00:06:00,080
+So go on adding the element in sum so this portion as adding all the elements.
+
+92
+00:06:00,100 --> 00:06:06,520
+Then after that average assigned sum by a number of elements though I get an average number then, return average
+
+93
+00:06:07,500 --> 00:06:12,480
+so if you read you can understand for finding the average of a list of elements.
+
+94
+00:06:12,530 --> 00:06:14,940
+Add all of them and divide by number of elements.
+
+95
+00:06:15,820 --> 00:06:20,650
+that's it. how this is written as English not exactly English.
+
+96
+00:06:21,070 --> 00:06:23,880
+Similar English as it does C C++ program.
+
+97
+00:06:23,890 --> 00:06:26,340
+If you have ever seen it is it looking like that.
+
+98
+00:06:26,370 --> 00:06:28,330
+No but is it readable.
+
+99
+00:06:28,330 --> 00:06:28,920
+Yes.
+
+100
+00:06:28,920 --> 00:06:30,990
+Then what is this code? pseudo pseudocode.
+
+101
+00:06:31,380 --> 00:06:32,220
+It's a pseudo code.
+
+102
+00:06:33,490 --> 00:06:36,730
+So let us make some changes, if i stop writing this.
+
+103
+00:06:36,760 --> 00:06:38,830
+Can I say colon.
+
+104
+00:06:38,870 --> 00:06:44,260
+assign, equal to, colon equal to. this is also showing a direction.
+
+105
+00:06:44,270 --> 00:06:46,850
+Then here also colon equal too.
+
+106
+00:06:46,890 --> 00:06:54,410
+Yes you can write, you can write, you can read write, so if you want to change the symbol change the symbol
+
+107
+00:06:55,750 --> 00:06:59,610
+alright for each element x in list.
+
+108
+00:06:59,750 --> 00:07:03,330
+do mostly we find like this.
+
+109
+00:07:03,370 --> 00:07:04,070
+Okay you add it.
+
+110
+00:07:04,110 --> 00:07:05,100
+That's also meaningful.
+
+111
+00:07:05,700 --> 00:07:07,440
+So instead  of begin and end.
+
+112
+00:07:07,670 --> 00:07:12,790
+I will say flower bracket yes.
+
+113
+00:07:12,820 --> 00:07:14,690
+That is also showing the beginning and ending.
+
+114
+00:07:14,770 --> 00:07:16,350
+No I believe was a square bracket.
+
+115
+00:07:16,510 --> 00:07:16,920
+OK.
+
+116
+00:07:16,930 --> 00:07:17,470
+Use it.
+
+117
+00:07:17,890 --> 00:07:20,010
+So now this is sufficient.
+
+118
+00:07:20,020 --> 00:07:23,270
+The idea is whatever you write it should be relevant.
+
+119
+00:07:24,680 --> 00:07:25,360
+Right.
+
+120
+00:07:25,390 --> 00:07:26,280
+It should not.
+
+121
+00:07:26,290 --> 00:07:29,850
+One should not get confused at least for whom you are writing.
+
+122
+00:07:29,850 --> 00:07:31,920
+This should not get confused.
+
+123
+00:07:31,920 --> 00:07:36,040
+This is how we write or algorithm using pseudocode.
+
+124
+00:07:36,070 --> 00:07:42,370
+Now the same thing for finding average of list of elements, this is C++ program.
+
+125
+00:07:42,370 --> 00:07:47,460
+It's a function it's not a complete program just a function inside this.
+
+126
+00:07:47,710 --> 00:07:56,080
+If I don't get semicolon it's an error, an intead of assignment if I write less than an hyphen it's
+
+127
+00:07:56,080 --> 00:07:59,100
+wrong compilers say what is this.
+
+128
+00:07:59,350 --> 00:08:01,690
+If you want to store the value here like this.
+
+129
+00:08:01,690 --> 00:08:07,030
+If you want to store the value you must use equal to symbol and that is called an assignment.
+
+130
+00:08:07,090 --> 00:08:11,240
+You must write like this,where ever  if you write semicolon.
+
+131
+00:08:11,260 --> 00:08:12,430
+It will not work.
+
+132
+00:08:12,670 --> 00:08:16,460
+So it means you should follow the proper syntax of a language.
+
+133
+00:08:16,470 --> 00:08:19,540
+Because this is not for you .
+
+134
+00:08:19,540 --> 00:08:25,000
+You are writing it for the compiler to understand it and convert it into machine code, so you will write
+
+135
+00:08:25,000 --> 00:08:29,810
+C++ program and that gets converted into machine code or machine language.
+
+136
+00:08:29,920 --> 00:08:32,500
+Who converts that compiler will convert.
+
+137
+00:08:32,510 --> 00:08:35,360
+So you are talking to compiler actually.
+
+138
+00:08:35,530 --> 00:08:40,900
+So you should talk such a way easily understand if it is not understanding it cannot convert it
+
+139
+00:08:40,900 --> 00:08:41,960
+into a machine code.
+
+140
+00:08:42,940 --> 00:08:45,490
+So this language is the language of compiler.
+
+141
+00:08:45,760 --> 00:08:48,280
+So you should follow the syntax perfectly.
+
+142
+00:08:48,340 --> 00:08:53,760
+That is the reason you have to put some little extra efforts for learning programming initially you will do
+
+143
+00:08:53,770 --> 00:08:54,390
+mistakes.
+
+144
+00:08:54,400 --> 00:08:59,770
+You will not write the things properly you miss few things you know not know what errors you get.
+
+145
+00:08:59,770 --> 00:09:02,520
+Once you start getting errors we will start realizing okay.
+
+146
+00:09:02,530 --> 00:09:08,910
+These are the mistakes I'm doing so from mistakes you will learn programming so that's all about the
+
+147
+00:09:09,090 --> 00:09:12,420
+comparisons of algorithms, pseudo code and program.
+
+148
+00:09:13,140 --> 00:09:16,980
+So I have given you enough basics so that all in this video.
+
+149
+00:09:17,460 --> 00:09:19,290
+So the next topic is flowchart.
+

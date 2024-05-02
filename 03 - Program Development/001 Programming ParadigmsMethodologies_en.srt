@@ -1,0 +1,760 @@
+1
+00:00:00,760 --> 00:00:05,860
+In this video you learn about a few basic things that are very important for a programmer to know these
+
+2
+00:00:05,860 --> 00:00:06,610
+things.
+
+3
+00:00:06,610 --> 00:00:09,790
+So for a beginner This is very much important.
+
+4
+00:00:10,230 --> 00:00:15,430
+And if you're already familiar with this then you can skip the section and you can start with the next
+
+5
+00:00:15,490 --> 00:00:16,570
+section.
+
+6
+00:00:16,720 --> 00:00:23,350
+So the things that I'm going to discuss here is what are programming paradigms means programming styles.
+
+7
+00:00:23,350 --> 00:00:30,370
+We will learn about this then what is an algorithm and pseudocode next is flowchart then
+
+8
+00:00:30,670 --> 00:00:32,450
+steps for program development.
+
+9
+00:00:32,560 --> 00:00:36,190
+Under this I'll be discussing about linker and Loader.
+
+10
+00:00:37,120 --> 00:00:40,960
+So in this section these topics will be covered in different videos.
+
+11
+00:00:40,960 --> 00:00:45,410
+So in this video let us talk about programming paradigms.
+
+12
+00:00:45,560 --> 00:00:52,210
+Let us talk about programming paradigm programming paradigm means the style of programming right from
+
+13
+00:00:52,210 --> 00:00:53,520
+the beginning of computer sciences.
+
+14
+00:00:53,530 --> 00:00:57,920
+That is from the beginning of a programming language just high level languages.
+
+15
+00:00:58,030 --> 00:01:05,930
+There are various styles adopted based on their development and new trends have been adopted in programming
+
+16
+00:01:05,930 --> 00:01:09,460
+strengths so few of them I'm discussing here.
+
+17
+00:01:09,470 --> 00:01:15,650
+That is helpful for us to understand the programming approach of C++.
+
+18
+00:01:15,650 --> 00:01:17,260
+Let us understand this.
+
+19
+00:01:17,330 --> 00:01:21,590
+see these are the type of paradigms I'm going going to discuss about.
+
+20
+00:01:21,620 --> 00:01:28,220
+First one is monolithic programming then modular or procedural programming then object oriented then
+
+21
+00:01:28,400 --> 00:01:30,350
+aspect oriented programming.
+
+22
+00:01:30,370 --> 00:01:34,380
+So right now today we are following aspect oriented programming.
+
+23
+00:01:34,430 --> 00:01:40,460
+We are following this approach and in the beginning it was monolithic so how the changes have occurred
+
+24
+00:01:40,850 --> 00:01:42,890
+and what other differences between them.
+
+25
+00:01:42,890 --> 00:01:49,720
+We will study about them one by one so I'll remove this and start so already I have some examples here
+
+26
+00:01:49,720 --> 00:01:51,970
+for explaining paradigms.
+
+27
+00:01:51,970 --> 00:01:54,450
+Let us start and pick up one by one and study them.
+
+28
+00:01:54,460 --> 00:01:58,080
+First one is monolithic programming.
+
+29
+00:01:58,110 --> 00:02:09,539
+This means the entire program code Source code will be a single piece single fine or single body.
+
+30
+00:02:09,539 --> 00:02:13,190
+This was the early programming the beginning of programming.
+
+31
+00:02:13,230 --> 00:02:17,280
+So example basic is one of the language that is old programming language.
+
+32
+00:02:17,310 --> 00:02:25,380
+This used to follow a monolithic approach in one of the video I said that a program contains two
+
+33
+00:02:25,380 --> 00:02:26,470
+things.
+
+34
+00:02:26,730 --> 00:02:33,260
+In the beginning videos I have said one thing program contains the data and instructions upon that data.
+
+35
+00:02:33,630 --> 00:02:41,910
+So if I listed here two things are there data and instructions so in monolithic programming everything is
+
+36
+00:02:41,910 --> 00:02:43,990
+mixed everything Is mixed.
+
+37
+00:02:44,010 --> 00:02:47,610
+These are the lines of a program I have just drawn lines here.
+
+38
+00:02:47,620 --> 00:02:49,670
+I'm not written the code program coded itself.
+
+39
+00:02:49,800 --> 00:02:52,790
+Assume those are the instructions in the program.
+
+40
+00:02:52,860 --> 00:02:54,120
+So this is monolithic.
+
+41
+00:02:55,050 --> 00:03:02,580
+Let us understand the problems with this one see if every thing has  to be in a single body so it
+
+42
+00:03:02,580 --> 00:03:08,980
+is just like one man show a single person has to do everything right.
+
+43
+00:03:09,000 --> 00:03:12,390
+So how many people can write this program together.
+
+44
+00:03:12,390 --> 00:03:15,160
+How many programmers can write? only one programmer.
+
+45
+00:03:16,260 --> 00:03:18,000
+What is the length of a program.
+
+46
+00:03:18,060 --> 00:03:23,880
+It can be growing if it is growing more and more it becomes difficult for a programmer to finish it.
+
+47
+00:03:24,240 --> 00:03:25,040
+It is very lengthy.
+
+48
+00:03:25,050 --> 00:03:30,690
+Then it may take weeks or months of time for development and if there is a single error in one line
+
+49
+00:03:30,810 --> 00:03:33,690
+then the whole programming is useless.
+
+50
+00:03:33,690 --> 00:03:36,060
+So if you remove that line then the program is correct.
+
+51
+00:03:36,600 --> 00:03:43,110
+So that's how the dependency is going to be broken down into pieces so it cannot be done as a team works
+
+52
+00:03:43,140 --> 00:03:44,840
+only one programmer has to do it.
+
+53
+00:03:44,940 --> 00:03:46,710
+So it is just like a painting.
+
+54
+00:03:46,710 --> 00:03:53,090
+Only one painter can paint it so multiple painters or a team of painters will not make a painting.
+
+55
+00:03:53,160 --> 00:03:58,260
+So that's why programming was taught as an art work in the beginning.
+
+56
+00:03:58,620 --> 00:04:06,780
+So the reason the style of programming was monolithic so everything in it is a single block or a single
+
+57
+00:04:06,780 --> 00:04:07,730
+piece.
+
+58
+00:04:07,860 --> 00:04:14,280
+Then as the new languages started evolving and requirements started changing and the computers were commonly
+
+59
+00:04:14,280 --> 00:04:14,840
+used.
+
+60
+00:04:14,850 --> 00:04:21,320
+Then there was a need to develop the big sized program which needs a team of programmers.
+
+61
+00:04:21,450 --> 00:04:23,910
+So modular programming was introduce.
+
+62
+00:04:24,180 --> 00:04:25,370
+So what is this.
+
+63
+00:04:25,460 --> 00:04:27,960
+So comparision with this one I'll explain.
+
+64
+00:04:27,990 --> 00:04:35,280
+See when everything is written here maybe a few lines are there that are used here and the same lines
+
+65
+00:04:35,290 --> 00:04:37,090
+are written here also
+
+66
+00:04:37,470 --> 00:04:42,330
+So why to write those two lines multiple times 
+
+67
+00:04:42,330 --> 00:04:44,830
+Why can't I write them at one place.
+
+68
+00:04:44,830 --> 00:04:50,100
+and use it multiple times here like function one I will call it a function one and here if I wanted
+
+69
+00:04:50,100 --> 00:04:53,310
+more than one time I will call the function one once again.
+
+70
+00:04:53,310 --> 00:04:55,150
+I wouldn't call it once again function 1.
+
+71
+00:04:56,010 --> 00:05:00,810
+So this is what I'm writing the same piece of code and reusing.
+
+72
+00:05:00,960 --> 00:05:04,530
+So the first thing is reusing  we we can reuse the code here.
+
+73
+00:05:04,830 --> 00:05:06,120
+So what does the function do.
+
+74
+00:05:06,210 --> 00:05:10,340
+Function performs  a smaller or specific task.
+
+75
+00:05:10,440 --> 00:05:14,100
+This is performing a major task which is a collection of smaller task.
+
+76
+00:05:14,370 --> 00:05:20,280
+So the idea here is that you can break that major tasks into smaller tasks and you can define smaller
+
+77
+00:05:20,280 --> 00:05:22,770
+tasks as it functions.
+
+78
+00:05:22,800 --> 00:05:24,900
+Each is a function.
+
+79
+00:05:24,900 --> 00:05:30,300
+Suppose you are conducting an event like exhibition if you're hosting at your place at your college
+
+80
+00:05:30,450 --> 00:05:33,280
+then you may have to do a lot of other things right.
+
+81
+00:05:33,300 --> 00:05:36,010
+Making arrangements inviting people right.
+
+82
+00:05:36,200 --> 00:05:41,700
+So a lot of other things are required, you can divide the work divide the work and you can do it as a team
+
+83
+00:05:41,700 --> 00:05:42,390
+work.
+
+84
+00:05:42,400 --> 00:05:48,440
+So event can be organized by group of people not just one person.
+
+85
+00:05:48,480 --> 00:05:52,110
+So that's how a single person is doing the entire task.
+
+86
+00:05:52,110 --> 00:05:55,950
+Now you can divide us into smaller task and divided it and that's it.
+
+87
+00:05:56,220 --> 00:06:03,150
+So each a small task is a function function so that afre called as modules or procedures so we can make
+
+88
+00:06:03,150 --> 00:06:05,660
+them as functions or procedures.
+
+89
+00:06:05,700 --> 00:06:08,840
+So this is the idea of modular programming.
+
+90
+00:06:09,060 --> 00:06:15,540
+Now one more example I give you here procedural programming means if a person is running a shop he alone
+
+91
+00:06:15,570 --> 00:06:21,510
+take care of the shop so cleaning of the shop opening of the shop and dealing with the customer purchasing 
+
+92
+00:06:21,510 --> 00:06:26,100
+and maintaining inventory everything he take cares right.
+
+93
+00:06:26,200 --> 00:06:28,850
+So single person handling the complete business.
+
+94
+00:06:29,220 --> 00:06:36,060
+So it is possible for a small business not here a bigger business so bigger business acquired manager
+
+95
+00:06:36,240 --> 00:06:37,620
+and workers.
+
+96
+00:06:37,650 --> 00:06:39,370
+So let us say function as a work.
+
+97
+00:06:39,390 --> 00:06:41,810
+Another function under the worker and so on.
+
+98
+00:06:41,850 --> 00:06:43,530
+Now he's manager.
+
+99
+00:06:43,530 --> 00:06:48,160
+He knows who should do the job and he will use them here.
+
+100
+00:06:48,270 --> 00:06:50,550
+Manager doesn't do anything by himself.
+
+101
+00:06:50,580 --> 00:06:52,810
+He will make use of the people.
+
+102
+00:06:52,920 --> 00:06:54,420
+People know how to do the work.
+
+103
+00:06:54,520 --> 00:07:00,090
+So functions will perform the tasks and the main function will organize all those functions together and
+
+104
+00:07:00,090 --> 00:07:02,930
+uses those functions to perform a bigger task.
+
+105
+00:07:03,600 --> 00:07:07,160
+So manager in a business, sothat the  business is bigger.
+
+106
+00:07:07,230 --> 00:07:09,740
+You need a team of workers and a manager.
+
+107
+00:07:10,020 --> 00:07:14,050
+So this is the change in approach right, now
+
+108
+00:07:14,070 --> 00:07:15,590
+What are the benefits.
+
+109
+00:07:15,730 --> 00:07:17,140
+Benefit is.
+
+110
+00:07:17,310 --> 00:07:20,370
+Once you write the function you use it in your program.
+
+111
+00:07:20,370 --> 00:07:26,400
+This program are also you can use it in other program and even you can share it with other programmers
+
+112
+00:07:26,850 --> 00:07:28,300
+in other projects.
+
+113
+00:07:28,320 --> 00:07:35,630
+So reusability of code once the functions is written  it can be used in n number of times second
+
+114
+00:07:35,630 --> 00:07:39,070
+benefit a team of programmers can develop it.
+
+115
+00:07:39,070 --> 00:07:45,680
+suppose 5 programmers each  is developing one function and one of the programmer will make
+
+116
+00:07:45,680 --> 00:07:47,480
+a main function.
+
+117
+00:07:47,480 --> 00:07:52,430
+So all the functions if you have some 50 function then 10-10 functions can be given to the programmers
+
+118
+00:07:52,430 --> 00:07:54,950
+and one of the programmer can integrate all of them.
+
+119
+00:07:54,950 --> 00:07:56,840
+So a team of programmers can work.
+
+120
+00:07:56,840 --> 00:07:59,580
+Functions can be developed individually.
+
+121
+00:07:59,840 --> 00:08:01,010
+That is the benefit.
+
+122
+00:08:01,010 --> 00:08:06,770
+So this has increased the development of programs or suffix.
+
+123
+00:08:06,890 --> 00:08:12,740
+This procedure of programming under language which became very famous in procedural modular programming
+
+124
+00:08:12,740 --> 00:08:19,710
+is C language then Next there's the same example does the same example.
+
+125
+00:08:19,830 --> 00:08:21,840
+Just a little bit more information is there.
+
+126
+00:08:21,960 --> 00:08:22,940
+Let us see this.
+
+127
+00:08:23,130 --> 00:08:27,570
+See here functions are set of instructions for performing a specific task.
+
+128
+00:08:27,570 --> 00:08:29,820
+This is for performing a specific task.
+
+129
+00:08:29,820 --> 00:08:32,500
+Performing operations and completing a task.
+
+130
+00:08:32,610 --> 00:08:34,549
+Operations on what? data.
+
+131
+00:08:34,860 --> 00:08:41,559
+where is data? data is organized here in the form of a structure in C language you can define structure
+
+132
+00:08:41,650 --> 00:08:44,000
+where to you can group the related data together.
+
+133
+00:08:44,100 --> 00:08:46,970
+So this is the data and these are the functions.
+
+134
+00:08:47,040 --> 00:08:52,610
+And if you observe these functions are meant for back to data only they are meant for this data only.
+
+135
+00:08:52,950 --> 00:08:58,170
+So main function is having data under functions that are acting upon this data.
+
+136
+00:08:58,980 --> 00:09:04,770
+So this is the final level of writing C language programs where the structures
+
+137
+00:09:04,830 --> 00:09:11,940
+and the functions does the same thing only modular programming now mixed as object oriented programming
+
+138
+00:09:12,260 --> 00:09:13,740
+that has come to this.
+
+139
+00:09:13,740 --> 00:09:17,660
+So from here I can explaining that. this is the data.
+
+140
+00:09:17,700 --> 00:09:20,130
+These are the functions meant for this data.
+
+141
+00:09:20,670 --> 00:09:22,440
+So what they're doing outside.
+
+142
+00:09:22,590 --> 00:09:25,540
+Why don't you include them inside of this one only.
+
+143
+00:09:25,560 --> 00:09:33,450
+So yes if you'll see here classes, classes contains data and  the functions upon that data everything is
+
+144
+00:09:33,450 --> 00:09:34,520
+inside the class.
+
+145
+00:09:34,530 --> 00:09:36,980
+This is a complete class this is the class.
+
+146
+00:09:37,110 --> 00:09:40,530
+Everything is inside the class so there's a new approach.
+
+147
+00:09:40,530 --> 00:09:47,120
+So the more the programming was having data separate function separate and an object orientation.
+
+148
+00:09:47,120 --> 00:09:51,930
+We say that you keep the data under functions related to that data.
+
+149
+00:09:51,930 --> 00:09:55,270
+You keep them together only and  define it as a class.
+
+150
+00:09:55,290 --> 00:10:02,450
+So this approach is object oriented and we can create the object of that class and we can call the function.
+
+151
+00:10:02,490 --> 00:10:06,940
+This is what used in C++ and Java and other languages.
+
+152
+00:10:07,020 --> 00:10:13,150
+So this is the latest method and the present method that we are following that is object put in addition.
+
+153
+00:10:13,320 --> 00:10:15,040
+This what we are going to learn.
+
+154
+00:10:15,300 --> 00:10:17,280
+Let us understand the benefits of this func.
+
+155
+00:10:17,310 --> 00:10:22,980
+See if a programmer is developing something he can develop a class so that class contains the data and
+
+156
+00:10:23,000 --> 00:10:28,260
+all operations are together so that entire complexities is within the class only so one programmer will
+
+157
+00:10:28,260 --> 00:10:30,430
+deal with that complete complexity.
+
+158
+00:10:30,750 --> 00:10:34,320
+So this work was distributed at a smaller level.
+
+159
+00:10:34,320 --> 00:10:37,100
+This work is distributed at a major level.
+
+160
+00:10:37,110 --> 00:10:39,820
+This was a reusable function was reusable.
+
+161
+00:10:39,840 --> 00:10:44,570
+This is classes reusable  of the data and the functions together are reusable.
+
+162
+00:10:44,640 --> 00:10:45,690
+That is the benefit.
+
+163
+00:10:46,110 --> 00:10:49,380
+So this is a little higher level of abstraction.
+
+164
+00:10:49,390 --> 00:10:50,620
+Now one last point.
+
+165
+00:10:50,670 --> 00:10:53,200
+What is the difference between these paradigms.
+
+166
+00:10:53,280 --> 00:10:58,740
+If you observe what we want to do remains the same.
+
+167
+00:10:58,740 --> 00:11:02,120
+What the software should do remains same.
+
+168
+00:11:02,180 --> 00:11:10,960
+What is the logic remains same only what is changing the way you organize your program code is changing.
+
+169
+00:11:10,980 --> 00:11:13,170
+This is everything was that same place.
+
+170
+00:11:13,200 --> 00:11:14,880
+This is divided into function.
+
+171
+00:11:14,880 --> 00:11:17,630
+This is a divided into data structure and function.
+
+172
+00:11:17,640 --> 00:11:19,480
+This is in the form of classes.
+
+173
+00:11:19,560 --> 00:11:22,490
+So if you'll see the differences differences.
+
+174
+00:11:22,530 --> 00:11:29,430
+Suppose a person is running a hotel in that is giving or serving for the food to the people.
+
+175
+00:11:29,850 --> 00:11:36,680
+Now one person is making everything it is a hotel only and a team of people are there who are running
+
+176
+00:11:36,670 --> 00:11:37,110
+the hotel
+
+177
+00:11:37,130 --> 00:11:38,690
+so it is the hotel business only
+
+178
+00:11:38,750 --> 00:11:44,420
+Everything is same the same food is served  and the customers are all the same type everything is same.
+
+179
+00:11:44,510 --> 00:11:52,250
+This is more organized this is more organized so only the way is how the hotel is working is changing, purpose
+
+180
+00:11:52,250 --> 00:11:56,040
+and the result of hotel is same. so same way 
+
+181
+00:11:56,120 --> 00:11:59,730
+If you're writting a programmer you follow this approach or this approach of that approach.
+
+182
+00:11:59,870 --> 00:12:04,780
+The outcomes of the program will be same only the differences if you look inside the program.
+
+183
+00:12:04,910 --> 00:12:06,980
+The way the program is written is different.
+
+184
+00:12:07,280 --> 00:12:10,110
+So this is not for the users of the program.
+
+185
+00:12:10,130 --> 00:12:11,760
+This is for the programmers.
+
+186
+00:12:11,780 --> 00:12:16,880
+itself. these pardigms are useful for programmers to make programming easy.
+
+187
+00:12:17,080 --> 00:12:20,720
+And this is the easiest method of writing programming that is C++.
+
+188
+00:12:20,720 --> 00:12:21,850
+That's what we are going to learn.
+
+189
+00:12:23,380 --> 00:12:24,920
+So that's all in this video.
+
+190
+00:12:25,090 --> 00:12:29,140
+And the next video we will see algorithms and pseudo code.
+
