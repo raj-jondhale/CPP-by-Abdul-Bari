@@ -1,0 +1,372 @@
+1
+00:00:00,680 --> 00:00:07,190
+In this video I'll give you a brief introduction to operating systems there are well known operating system 
+
+2
+00:00:07,190 --> 00:00:12,340
+for formerly people use them right on their laptops or on PCs.
+
+3
+00:00:12,350 --> 00:00:15,000
+The known operating systems are Windows.
+
+4
+00:00:15,000 --> 00:00:19,490
+This very famous operating system and Linux.
+
+5
+00:00:19,490 --> 00:00:24,440
+This is mostly used by professionals or this is used in companies third.
+
+6
+00:00:24,740 --> 00:00:29,270
+That is Mac OS X is operating system.
+
+7
+00:00:29,270 --> 00:00:31,850
+These are the commonly found operating systems.
+
+8
+00:00:32,090 --> 00:00:38,900
+So what actually an operating system is? see operating system is a master program.
+
+9
+00:00:39,110 --> 00:00:47,120
+It will utilize all the resources of your computer system and provides services to the user.
+
+10
+00:00:47,470 --> 00:00:53,270
+See these are the components in a computer system like already we have seen this CPU and the main memory
+
+11
+00:00:53,280 --> 00:00:54,860
+then the input and output device.
+
+12
+00:00:54,890 --> 00:01:03,670
+So I am showing keyboard mouse monitor printer and network and measurly hard disk right now.
+
+13
+00:01:03,720 --> 00:01:11,630
+The programs are running here inside the main memory may require these very fellows
+
+14
+00:01:11,990 --> 00:01:15,830
+all the resources of your computer system or let us draw a
+
+15
+00:01:15,880 --> 00:01:17,500
+user also here.
+
+16
+00:01:17,530 --> 00:01:19,380
+User is using computer systems.
+
+17
+00:01:19,400 --> 00:01:24,630
+He may be using these resources like accessing internet or accessing some files and ALL.
+
+18
+00:01:25,040 --> 00:01:27,280
+So program user will not directly use it.
+
+19
+00:01:27,280 --> 00:01:30,340
+He will use them through a program only definitely.
+
+20
+00:01:30,380 --> 00:01:35,940
+So finally users should be benefited from the resources and the program.
+
+21
+00:01:35,960 --> 00:01:41,210
+So this the responsibility taken by an operating system and it means the environment it provides an
+
+22
+00:01:41,210 --> 00:01:45,290
+environment easy for a user to use the computer system.
+
+23
+00:01:45,290 --> 00:01:54,920
+So even on your mobile phone you have operating systems like Android operating system and IOS operating
+
+24
+00:01:54,920 --> 00:01:55,840
+system.
+
+25
+00:01:56,930 --> 00:02:02,630
+So on mobile phone also it's the same thing like you have a storage and the ram that is main memory
+
+26
+00:02:02,960 --> 00:02:04,310
+and the processor is there.
+
+27
+00:02:04,400 --> 00:02:11,420
+screen itself display on its screen itself works as an input or a touch
+
+28
+00:02:11,420 --> 00:02:12,500
+device touchscreen.
+
+29
+00:02:13,010 --> 00:02:21,800
+So both are similar. now let us know how operating system works. listen when you start your machine computer
+
+30
+00:02:21,800 --> 00:02:24,710
+PC. or mobile phone or laptop.
+
+31
+00:02:24,830 --> 00:02:29,870
+The first thing that you'll see is it is getting ready and if you're using Windows P.C. you will find
+
+32
+00:02:29,870 --> 00:02:35,400
+a Windows logo and you will get a message of starting windows starting on your mobile phone Android
+
+33
+00:02:35,420 --> 00:02:40,050
+mobile phone you will get a message at the bottom that is Android it's getting ready.
+
+34
+00:02:40,280 --> 00:02:47,080
+So the very first thing when you start your machine a device it will get ready upon operating system.
+
+35
+00:02:47,150 --> 00:02:51,230
+See operating system actually is present in the your storage on a hard disk.
+
+36
+00:02:51,320 --> 00:02:58,550
+So I'm showing it as Windows Windows.EXC like Windows is also program operating system is also program.
+
+37
+00:02:58,970 --> 00:03:02,100
+But it gets loaded by itself so it will start by itself.
+
+38
+00:03:02,220 --> 00:03:07,370
+The moment when you will start your machine operating system will get loaded and operating system will
+
+39
+00:03:07,370 --> 00:03:15,000
+start executing so that your hardware or your device get ready up on operating system.
+
+40
+00:03:15,020 --> 00:03:17,180
+So this should come inside main memory.
+
+41
+00:03:17,180 --> 00:03:23,910
+So I will  just write OS in short for operating system. operating system will get ready first inside
+
+42
+00:03:23,930 --> 00:03:28,700
+the main memory and the CPU will start executing that operating system.
+
+43
+00:03:28,850 --> 00:03:34,330
+So the very first thing that you get a screen that full of icons and cursor for mouse everything.
+
+44
+00:03:34,490 --> 00:03:40,670
+All this is displayed by operating system and the operating system is ready to take the instruction
+
+45
+00:03:40,670 --> 00:03:42,820
+for you or the commands from you.
+
+46
+00:03:43,460 --> 00:03:46,500
+So you click on some icon for opening an application.
+
+47
+00:03:46,580 --> 00:03:47,880
+So how it works.
+
+48
+00:03:47,930 --> 00:03:54,410
+Operating system running here inside the CPU will bring that program inside the main memory and it
+
+49
+00:03:54,440 --> 00:03:56,780
+will ask the CPU to execute that program.
+
+50
+00:03:57,920 --> 00:04:01,660
+So that program runs within the context of operating system.
+
+51
+00:04:01,730 --> 00:04:05,650
+Now it is not independent it's running as a part of operating system.
+
+52
+00:04:05,660 --> 00:04:11,800
+within in the control of operating system it is perfectly monitored by operating system.
+
+53
+00:04:12,110 --> 00:04:15,060
+So operating system will get our program execute
+
+54
+00:04:15,260 --> 00:04:20,300
+When you touch on the icon on the screen or when you double click on the icon on the screen on the PC
+
+55
+00:04:20,600 --> 00:04:25,560
+program will get into the main memory and an opening system will start executing it.
+
+56
+00:04:25,670 --> 00:04:34,640
+Now the last thing when our program is accessing a monitor or printer or network anything program cannot
+
+57
+00:04:34,720 --> 00:04:37,970
+directly access anything cannot directly access.
+
+58
+00:04:37,970 --> 00:04:44,260
+It has to get the work done or make a request to the operating system.
+
+59
+00:04:44,300 --> 00:04:46,760
+It has to display something on the monitor.
+
+60
+00:04:46,760 --> 00:04:51,230
+It should ask the operating system that I wonder display this if something is typed from the keyboard
+
+61
+00:04:51,260 --> 00:04:52,260
+that is coming in.
+
+62
+00:04:52,410 --> 00:04:59,620
+And if a program wants that then it should ask the operating system to get that input so programs
+
+63
+00:04:59,650 --> 00:05:05,440
+cannot access the hardware directly how to handle them how to access them like multiple programs
+
+64
+00:05:05,440 --> 00:05:06,840
+may be running right.
+
+65
+00:05:06,850 --> 00:05:11,860
+So one program cannot capture the device so operating system take care of all these things so it will
+
+66
+00:05:11,860 --> 00:05:19,420
+manage the resources so everything has to be done via our operating system by making a request to operating
+
+67
+00:05:19,420 --> 00:05:19,940
+system.
+
+68
+00:05:20,110 --> 00:05:26,470
+So then any program any program but it is making a request to the operating system for accessing the
+
+69
+00:05:26,470 --> 00:05:34,210
+resources or getting services from the operating system then it does that by using System calls system
+
+70
+00:05:34,210 --> 00:05:41,830
+calls and we say that these are system calls or we also call it does API but system call is the right term
+
+71
+00:05:41,830 --> 00:05:47,620
+for this one. Application program interface or system called a program will makes system calls for
+
+72
+00:05:47,620 --> 00:05:51,850
+the operating system for availing services.
+
+73
+00:05:51,850 --> 00:05:56,890
+So that's all I have explained you how operating system will start on the machine and how it will help
+
+74
+00:05:56,890 --> 00:06:03,610
+our program execute. now in short operating system is a master program which will take all the resources
+
+75
+00:06:03,610 --> 00:06:11,740
+under control and provide services like you may maybe knowing us sports department or library in your
+
+76
+00:06:11,740 --> 00:06:15,100
+college like librarian will hold all the books right.
+
+77
+00:06:15,100 --> 00:06:16,830
+He has a control over all of them.
+
+78
+00:06:16,870 --> 00:06:22,960
+He has the authority to issue the book or claim the book back from a student so he decides who should
+
+79
+00:06:22,960 --> 00:06:27,580
+get how many books are not for how much period a book should be given we should given to a student and everything
+
+80
+00:06:27,580 --> 00:06:28,530
+he decides right.
+
+81
+00:06:29,010 --> 00:06:31,030
+So a better book is available or not available.
+
+82
+00:06:31,030 --> 00:06:35,920
+He knows everything so a student cannot directly go and pick up a book and take it home.
+
+83
+00:06:35,920 --> 00:06:41,770
+He has to request to the librarian and when he is returning again he is give it back to the librarian.
+
+84
+00:06:41,920 --> 00:06:49,540
+So library managers library that is a sources. Same way operating system manages all the resources of
+
+85
+00:06:49,540 --> 00:06:55,650
+your computer system and the programs will use these resources with the help of operating system.
+
+86
+00:06:55,890 --> 00:07:00,170
+thatsall little bit about  an operating system so now you should know that there is something
+
+87
+00:07:00,180 --> 00:07:07,900
+called operating system also between CPU and the resources and your program.
+
+88
+00:07:08,070 --> 00:07:08,390
+Right.
+
+89
+00:07:08,680 --> 00:07:13,810
+So there are few things that are done by the operating system during run time of your program so you
+
+90
+00:07:13,810 --> 00:07:15,660
+should be aware of this.
+
+91
+00:07:16,060 --> 00:07:20,830
+So this is sufficient for about knowing about operating systems.
+
+92
+00:07:20,830 --> 00:07:27,070
+So that's all in the section in the next section we will cover a few more concepts that are very useful
+
+93
+00:07:27,070 --> 00:07:28,670
+for programming.
+

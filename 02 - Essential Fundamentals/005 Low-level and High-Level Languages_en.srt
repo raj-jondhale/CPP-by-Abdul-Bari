@@ -1,0 +1,232 @@
+1
+00:00:00,030 --> 00:00:06,900
+So in the previous video I have already explained you that we talk or we understand natural
+
+2
+00:00:06,900 --> 00:00:13,440
+language human beings and machines have their machine language and that language is in binary that is
+
+3
+00:00:13,440 --> 00:00:14,550
+zeros and ones.
+
+4
+00:00:14,580 --> 00:00:14,940
+Right.
+
+5
+00:00:15,090 --> 00:00:17,300
+So it is in the form of zero & ones.
+
+6
+00:00:17,300 --> 00:00:24,270
+we say this is binary language. binary language we can call it does machine language, machine
+
+7
+00:00:24,270 --> 00:00:25,350
+language.
+
+8
+00:00:25,350 --> 00:00:32,910
+So that is termed as low level language, low level language. machine language is low level. low level
+
+9
+00:00:32,910 --> 00:00:35,610
+means actual machine's language we can't understand it.
+
+10
+00:00:36,570 --> 00:00:41,370
+So when the machines were introduced initially it was very difficult for people to write the program
+
+11
+00:00:41,380 --> 00:00:42,300
+so it was not common.
+
+12
+00:00:42,300 --> 00:00:44,290
+Machines were used in laboratories.
+
+13
+00:00:44,400 --> 00:00:48,500
+It was not used by masses or it was not available at consumer level.
+
+14
+00:00:49,100 --> 00:00:54,720
+So at that time so the people who develop they used to learn something from this machine code and they
+
+15
+00:00:54,720 --> 00:00:59,890
+used for everything in machine code form that was very tough and it was very initial stage and then
+
+16
+00:00:59,900 --> 00:01:04,680
+later they thought like there should be some attempt to make it easy so they introduce some language
+
+17
+00:01:04,680 --> 00:01:08,230
+called assembly language, assembly language.
+
+18
+00:01:08,640 --> 00:01:13,200
+So this assembly language was a little easier than binary right.
+
+19
+00:01:13,230 --> 00:01:18,900
+So this is nobody can think of working on it, except the one who has to manufacture the machine. Now assembly
+
+20
+00:01:18,900 --> 00:01:20,520
+language it was little easy.
+
+21
+00:01:20,520 --> 00:01:25,630
+It can be taught and it can be learned and it can be practiced and used for writing the program.
+
+22
+00:01:25,890 --> 00:01:29,710
+So this was a use for some time right.
+
+23
+00:01:29,760 --> 00:01:34,500
+And this became a base for conversion from this language to machine language.
+
+24
+00:01:34,590 --> 00:01:40,050
+So still that is also low level language it's very difficult for learning if suppose a class of 100
+
+25
+00:01:40,070 --> 00:01:46,050
+student and if somebody is teaching assembly language then there's the chances of learning one student
+
+26
+00:01:46,050 --> 00:01:47,330
+learning it right.
+
+27
+00:01:47,550 --> 00:01:50,930
+So the learning curve is very high and it's very difficult.
+
+28
+00:01:51,180 --> 00:01:56,720
+Like other parts of academic students learn it for some time and they finish the exam and forget it.
+
+29
+00:01:56,730 --> 00:02:03,670
+So anyway we don't have to use it if at all you want to work in systems programming that you want the
+
+30
+00:02:03,670 --> 00:02:08,479
+right operating system level programs and on then you need to learn about it right.
+
+31
+00:02:08,840 --> 00:02:14,130
+So I'll give you idea on that one where this assembly  language is useful if if at all you needed
+
+32
+00:02:14,760 --> 00:02:17,720
+then this is also low level so under low level.
+
+33
+00:02:17,790 --> 00:02:25,590
+We have two languages, under a low level that is machine language and assembly language machine language
+
+34
+00:02:25,650 --> 00:02:26,730
+and assembly language.
+
+35
+00:02:26,730 --> 00:02:31,300
+In short I'm writing. As this was also difficult.
+
+36
+00:02:31,350 --> 00:02:38,400
+We wanted some English like language so English like languages are high level languages they are not
+
+37
+00:02:38,400 --> 00:02:42,350
+exactly like English and they are not more like machine code right.
+
+38
+00:02:42,630 --> 00:02:44,060
+So they are in-between.
+
+39
+00:02:44,070 --> 00:02:51,270
+So that is easy for easy enough for anybody to learn so that are high level languages.
+
+40
+00:02:51,270 --> 00:02:57,360
+So there are a  n no. of of high level languages lots of high level lang. are out there like present day
+
+41
+00:02:57,360 --> 00:03:00,090
+we are using language like i will name them.
+
+42
+00:03:00,090 --> 00:03:14,790
+So these are easy to learn right high level languages C C++ Java Python C sharp visual basic Visual
+
+43
+00:03:14,790 --> 00:03:18,460
+C++ and the list goes on.
+
+44
+00:03:18,450 --> 00:03:20,260
+There are various languages.
+
+45
+00:03:20,670 --> 00:03:20,970
+Right.
+
+46
+00:03:21,330 --> 00:03:26,460
+So these languages we call them as programming languages because we can program and we humans
+
+47
+00:03:26,460 --> 00:03:27,530
+can program them.
+
+48
+00:03:27,570 --> 00:03:32,610
+Actually this assembly language is also programming language that is low level programming language
+
+49
+00:03:32,940 --> 00:03:34,410
+and these are high level language.
+
+50
+00:03:35,070 --> 00:03:37,290
+So we are much familiar with this language.
+
+51
+00:03:37,320 --> 00:03:39,090
+So these are really easy to learn.
+
+52
+00:03:39,340 --> 00:03:45,270
+No doubt for a beginner it is tough in the beginning but when you are used to learn when you learn any
+
+53
+00:03:45,270 --> 00:03:50,940
+one of the languages sufficient you can learn all of the languages you should learn one language thoroughly
+
+54
+00:03:51,270 --> 00:03:56,940
+then you can understand all other languages they are on the same patterns now.
+
+55
+00:03:57,090 --> 00:04:04,200
+And one more thing about this these languages we can categorise them as compiler based languages and
+
+56
+00:04:04,200 --> 00:04:10,200
+some are interpreter based languages and some are hybrid languages.
+
+57
+00:04:10,200 --> 00:04:11,730
+What are these.
+
+58
+00:04:11,730 --> 00:04:12,990
+We will understand next video.
+
