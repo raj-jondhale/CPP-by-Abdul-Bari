@@ -1,6 +1,6 @@
-# include<iostream>
+#include <iostream>
 using namespace std;
-    
+
 /*program for writing class in c++ for rectangle
 
 */
@@ -11,18 +11,18 @@ public:
 	int breadth;
 	int area()
 	{
-		return length*breadth;
+		return length * breadth;
 	}
 	int perimeter()
-        {
-		return 2*(length+breadth);
+	{
+		return 2 * (length + breadth);
 	}
 };
 int main()
 {
 	rectangle r1;
-	r1.length=5;
-	r1.breadth=10;
-	cout<<"area is "<<r1.area()<<endl;
-	cout<<"perimeter is "<<r1.perimeter()<<endl;
+	r1.length = 5;
+	r1.breadth = 10;
+	cout << "area is " << r1.area() << endl;
+	cout << "perimeter is " << r1.perimeter() << endl;
 }
